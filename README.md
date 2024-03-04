@@ -1,0 +1,2 @@
+# gmpo
+gmpo - dly vseh
